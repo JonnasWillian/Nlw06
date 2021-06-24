@@ -29,7 +29,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder.
 
 ```bash
-$ git clone https://github.com/guilhermecapitao/letmeask.git
+$ git clone https://github.com/JonnasWillian/Nlw06#-getting-started
 $ cd letmeask
 ```
 
@@ -58,4 +58,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 
 ---
 
-<p align="center">Made with 💜 by Guilherme Capitão</p>
+<p align="center">Made with 💜 by Jonnas Willian</p>
